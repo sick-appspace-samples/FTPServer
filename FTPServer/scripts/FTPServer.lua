@@ -1,5 +1,5 @@
 
---Start of Global Scope--------------------------------------------------------- 
+--Start of Global Scope---------------------------------------------------------
 
 -- Create ftp server instance
 handle = FTPServer.create()
@@ -17,4 +17,4 @@ end
 
 print("App finished.")
 
---End of Global Scope----------------------------------------------------------- 
+--End of Global Scope-----------------------------------------------------------
